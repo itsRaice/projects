@@ -1,9 +1,9 @@
 package application;
-//Assignment 6: ASU - CSE 205
+
 //Name: Aryan Rai
 
-//StudentID: 1218775493
-//Lecture Date and Time: MWF 10:10am
+
+
 //Description: GeneratePane creats a pane where a user can enter
 //course information and create a list of available courses.
 
