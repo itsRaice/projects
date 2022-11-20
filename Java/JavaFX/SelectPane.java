@@ -1,6 +1,5 @@
 package application;
-//Assignment #: 6
-//Arizona State University - CSE205
+
 //Description: SelectPane displays a list of available courses
 //from which a user can select and compute total number of students in multiple courses.
 
