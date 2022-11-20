@@ -14,6 +14,6 @@
   
   in folder sortingalgos is an implementation of the insertion, quick, and merge sort algorithims, with a makefile and template input file
   
-  in foler heap is an implementation of a max, min, and double heap, with a makefile and template input file
+  in folder heap is an implementation of a max, min, and double heap, with a makefile and template input file
   
-  in foler linkedlist is a basic linked list implementation
+  in folder linkedlist is a basic linked list implementation
