@@ -1,7 +1,7 @@
-// Assignment #: 9
+
 //         Name: Aryan Rai
-//    StudentID: 1218775493
-//      Lecture: MWF 10:10am
+
+
 //  Description: this program reads in a sequence of numbers from standard
 //               input until 0 is read, stores the numbers in an array,
 //               then finds the minimum number,
