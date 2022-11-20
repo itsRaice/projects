@@ -1,10 +1,6 @@
 package application;
 
-//Assignment #: 4
-//Name:
-//StudentID:
-//Lecture:
-//Description:
+
 
 public class Course {
 
