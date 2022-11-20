@@ -1,7 +1,7 @@
 package application;
 
 
-///  Description: The Assignment6 class creates a Tabbed Pane with
+///  Description: The learningJavaFX class creates a Tabbed Pane with
 //             two tabs, one for course Creation and one for
 //             course Selection.
 
