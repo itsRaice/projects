@@ -15,7 +15,7 @@
   
   in folder recursion is a program showing use of recursion
   
-  in folder
+  in folder usingStacks is a program that uses the stack data structure to validate use of brackets in a string
 
 # BASH
   makeHeader.sh and cBodyMaker.sh are two BASH scrips that create invidual parts of a C file
