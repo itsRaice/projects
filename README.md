@@ -1,12 +1,4 @@
 # My Projects
-# BASH
-  makeHeader.sh and cBodyMaker.sh are two BASH scrips that create invidual parts of a C file
-  
-  cCodeMaker.sh utilizes both to create a compilable C file
-  
-# Scheme
-  BasicScheme.rkt is a Scheme program that implements some basic LisP/functional programming
-  
 # C/C++
   EnglishMorseTranslate.cpp is a program that can translate a text file from English to Morse Code and vice versa
   
@@ -17,3 +9,19 @@
   in folder heap is an implementation of a max, min, and double heap, with a makefile and template input file
   
   in folder linkedlist is a basic linked list implementation
+  
+# Java
+  in folder JavaFX is a basic clone of our school's course registration site
+  
+  in folder recursion is a program showing use of recursion
+  
+  in folder
+
+# BASH
+  makeHeader.sh and cBodyMaker.sh are two BASH scrips that create invidual parts of a C file
+  
+  cCodeMaker.sh utilizes both to create a compilable C file
+ 
+# Scheme
+  BasicScheme.rkt is a Scheme program that implements some basic LisP/functional programming
+  
