@@ -1,7 +1,7 @@
 #| 
 Author: Aryan Rai
 Date: 2/25/22
-Description: Functions for Assignment 2
+Description: Basic Scheme Functions
 |#
 
 ;functions for part 1
