@@ -5,7 +5,7 @@
   cCodeMaker.sh utilizes both to create a compilable C file
   
 # Scheme
-  Rai_Aryan_Hw2.rkt is a Scheme program that implements some basic LisP/functional programming
+  BasicScheme.rkt is a Scheme program that implements some basic LisP/functional programming
   
 # C/C++
   EnglishMorseTranslate.cpp is a program that can translate a text file from English to Morse Code and vice versa
