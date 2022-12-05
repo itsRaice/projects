@@ -4,6 +4,8 @@
   
   islandGenerator.cpp will create a topographical map of an island created by dropping a user defined amount of particles, that roll for a user defined amount of time, in a user defined space
   
+  in folder dijkstrasShortestPath is an implementation of Dijkstra's Shortest Path algorithm, used by many navigation systems, and implements data structures heap and stack to complete its task
+  
   in folder sortingalgos is an implementation of the insertion, quick, and merge sort algorithims, with a makefile and template input file
   
   in folder heap is an implementation of a max, min, and double heap, with a makefile and template input file
