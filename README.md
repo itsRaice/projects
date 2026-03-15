@@ -11,6 +11,9 @@
   in folder heap is an implementation of a max, min, and double heap, with a makefile and template input file
   
   in folder linkedlist is a basic linked list implementation
+
+# Digital Logic
+  Designed a finite state machine taking the function of a temperature controller in 7 states, optimized through the use of flip-flop registers, logic gates, Boolean algebra, and K-maps
   
 # Java
   in folder JavaFX is a basic clone of our school's course registration site
